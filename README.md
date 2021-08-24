@@ -1,1 +1,1 @@
-# GOIT-FSon38-hw
+# GOIT-FSon38-js-hw
