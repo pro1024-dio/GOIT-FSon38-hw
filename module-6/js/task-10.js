@@ -4,5 +4,4 @@
 
 const planets = ['Земля', 'Марс', 'Венера', 'Юпитер'];
 // Пиши код ниже этой строки
-const planetsLengths = [];
-planets.map(elm => planetsLengths.push(elm.length));
+const planetsLengths = planets.map(elem => elem.length);
